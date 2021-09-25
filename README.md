@@ -8,7 +8,7 @@ It can be used to build arround cardano-cli - web services or applications
 * build and submit transactions
 * create and manage addresses
 
-To use it, you need cardano-node with cardano-cli available
+To use it, you need cardano-node with cardano-cli available in the shell
 
 
 Example apps:
