@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wZ3Isffo9IC3oycpcsKleIceHOi63EdESvewJRxU8de0KuFjmVu4Xk+T1/RbqzcM3/iCq17rJ+UpZLhY2PuaFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zacha\\source\\repos\\PPC.Csharp.CardanoCLI\\Utilities\\Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zacha\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\zacha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\zacha\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\zacha\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\zacha\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\zacha\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\zacha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
